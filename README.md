@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final-year Computer Science and Engineering student with a strong passion for web development, automation, and design. My expertise spans the MERN stack, JavaScript, TypeScript, React, Express, Node.js, and modern styling tools like Tailwind CSS and Bootstrap. I have built diverse projects, including e-commerce clones, responsive web applications, and a professional loan management system for my capstone project. Currently enhancing my full-stack skills at Innomatics Research Labs, I am seeking an entry-level role or internship to apply my technical skills to real-world challenges.
+I am a final-year Computer Science and Engineering student with a strong passion for web development, automation, and design. My expertise spans the JavaScript, TypeScript, React, Express, Node.js, and modern styling tools like Tailwind CSS and Bootstrap. I have built diverse projects, including e-commerce clones, responsive web applications, and a professional loan management system for my capstone project. Currently enhancing my full-stack skills at Innomatics Research Labs, I am seeking an entry-level role or internship to apply my technical skills to real-world challenges.
 
 
 ## 🌐 Socials:
