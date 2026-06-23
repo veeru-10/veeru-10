@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a final-year Computer Science and Engineering student with a strong passion for web development, automation, and design. My expertise spans the JavaScript, TypeScript, React, Express, Node.js, and modern styling tools like Tailwind CSS and Bootstrap. I have built diverse projects, including e-commerce clones, responsive web applications, and a professional loan management system for my capstone project. Currently enhancing my full-stack skills at Innomatics Research Labs, I am seeking an entry-level role or internship to apply my technical skills to real-world challenges.
+  Hi!!!, My name isVeeranjini, I'm a Aspiring full stack developer. I have a strong foundation in web technologies such as html, css, js, react, css frameworks like bootstrap and TailwindCSS. and i have been focusing on backend development and actively learning backend technologies such as node js, express, mongoDB. During my acadamic journey i have primarly worked on simple frontend projects and build strong foundation in core CS fundamentals.
+  Currently, Enhancing my full-stack skills at Innomatics research labs institute which is loacted in Hyderabad. I'm looking forword to start my professional carrer in an organisation where i can learn from experience professionals and contribute to meaning full projects and grow as a Software Developer.
 
 
 ## 🌐 Socials:
