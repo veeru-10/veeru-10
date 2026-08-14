@@ -1,6 +1,8 @@
 # 💫 About Me:
-  Hi!!! My name isVeeranjini, I'm a Aspiring full stack developer. I have a strong foundation in web technologies such as html, css, js, react, css frameworks like bootstrap and TailwindCSS. and i have been focusing on backend development and actively learning backend technologies such as node js, express, mongoDB. During my acadamic journey i have primarly worked on simple frontend projects and build strong foundation in core CS fundamentals.
-  Currently, Enhancing my full-stack skills at Innomatics research labs institute which is loacted in Hyderabad. I'm looking forword to start my professional carrer in an organisation where i can learn from experience professionals and contribute to meaning full projects and grow as a Software Developer.
+  Hi!!! I'm veeranjini - MERN Stack Developer with hands-on experience building and deploying full-stack web applications using React.js,
+Node.js, Express.js, and MongoDB. Skilled in creating responsive, scalable UIs with Tailwind CSS and Bootstrap, and
+deploying production-ready apps via Vercel and Render. Strong foundation in Data Structures, OOP, and DBMS seeking a
+MERN Stack internship to contribute to real-world development.
 
 
 ## 🌐 Socials:
